@@ -2,6 +2,6 @@
 
 ## Metode : Classification
 
-## Nama : Dyah Ayu Kusuma Wardhani (PYTN-KS19-02)
+## Dyah Ayu Kusuma Wardhani (PYTN-KS19-02)
 
 Sumber Data : https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
